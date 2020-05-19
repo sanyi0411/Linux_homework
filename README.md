@@ -1,4 +1,4 @@
-# Linux_homework
+# Linux homework
 Hi,
 
 During my Computer Enginnering studies I took a Linux course. Our homework was to come up with a unique idea, a programming project where we would use the knowledge we learned during the course and implement it.

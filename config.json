@@ -1,0 +1,17 @@
+{
+    "git": {
+        "user": "cristianadam",
+        "repo": "HelloWorld",
+        "entry": "main.cpp",
+        "branch": "master"
+    },
+    "build": {
+        "compiler": "g++",
+        "version": "7"
+    },
+    "emails": [
+    	"sandor.derda@gmail.com",
+    	"abcd@mail.com",
+    	"foo@netmail.com"
+    ]
+}
